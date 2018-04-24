@@ -77,7 +77,7 @@ $(document).ready(function() {
 
     $('.chart').waypoint(function() {
         $(this).easyPieChart({
-            barColor: '#3498db',
+            barColor: '#f1c40f',
             size: '150',
             easing: 'easeOutBounce',
             onStep: function(from, to, percent) {
@@ -96,8 +96,8 @@ $(document).ready(function() {
         slides: [
             { src: 'img/slider/01.jpg' },
             { src: 'img/slider/02.jpg' },
-            { src: 'img/slider/03.jpg' },
-			{ src: 'img/slider/04.jpg' }
+           /* { src: 'img/slider/03.jpg' },
+			{ src: 'img/slider/04.jpg' }*/
         ],
     overlay: true
 });
