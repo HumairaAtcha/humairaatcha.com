@@ -3,109 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="50a74e36-d9bb-4709-8a9f-f373ab79b0c9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/colors/blue.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/colors/green.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/colors/orange.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/colors/purple.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/colors/red.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/colors/yellow.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/vegas.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/loading.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/next.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/04.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/05.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/06.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/07.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/08.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/09.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/10.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/11.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/12.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/13.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/14.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/15.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/16.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/large/01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/large/02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/large/03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/large/04.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/large/05.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/large/06.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/large/07.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/large/08.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/large/09.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/large/10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/large/11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/large/12.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/large/13.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/large/14.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/large/15.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/small/01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/small/02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/small/03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/small/04.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/small/05.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/small/06.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/small/07.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/small/08.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/small/09.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/small/10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/small/11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/small/12.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/small/13.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/small/14.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/small/15.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/prev.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/preview-large.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/preview-large.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/preview-small.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/profile.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/06.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/style.sea.css" afterPath="$PROJECT_DIR$/css/style.sea.css" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/contact_me.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/html5shiv.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-1.10.2.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-2.1.3.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.easypiechart.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.isotope.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.mixitup.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.nav.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.scrollTo.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.sticky.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change beforePath="$PROJECT_DIR$/js/modernizr-2.6.2.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/respond.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/vegas.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/vegas.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/waypoints.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/mail/contact_me.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -123,21 +22,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="685">
-              <caret line="269" column="44" lean-forward="true" selection-start-line="269" selection-start-column="44" selection-end-line="269" selection-end-column="44" />
+            <state relative-caret-position="957">
+              <caret line="212" column="26" lean-forward="true" selection-start-line="212" selection-start-column="26" selection-end-line="212" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="front.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="front.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/front.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="99" column="34" lean-forward="true" selection-start-line="99" selection-start-column="34" selection-end-line="99" selection-end-column="34" />
+            <state relative-caret-position="702">
+              <caret line="104" column="33" lean-forward="false" selection-start-line="104" selection-start-column="33" selection-end-line="104" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -146,8 +45,8 @@
       <file leaf-file-name="style.sea.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.sea.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+            <state relative-caret-position="696">
+              <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -169,6 +68,7 @@
       <find>div</find>
       <find>6</find>
       <find>map</find>
+      <find>background-gray-lightest</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -223,9 +123,9 @@
       <list>
         <option value="$PROJECT_DIR$/js/contact_me.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/js/front.js" />
         <option value="$PROJECT_DIR$/css/style.sea.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/front.js" />
       </list>
     </option>
   </component>
@@ -935,14 +835,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.sea.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/ekko-lightbox.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -954,18 +846,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/front.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="685">
-          <caret line="269" column="44" lean-forward="true" selection-start-line="269" selection-start-column="44" selection-end-line="269" selection-end-column="44" />
+        <state relative-caret-position="702">
+          <caret line="104" column="33" lean-forward="false" selection-start-line="104" selection-start-column="33" selection-end-line="104" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/front.js">
+    <entry file="file://$PROJECT_DIR$/css/style.sea.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="99" column="34" lean-forward="true" selection-start-line="99" selection-start-column="34" selection-end-line="99" selection-end-column="34" />
+        <state relative-caret-position="696">
+          <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="212" column="26" lean-forward="true" selection-start-line="212" selection-start-column="26" selection-end-line="212" selection-end-column="26" />
           <folding />
         </state>
       </provider>

@@ -39,8 +39,6 @@ section.background-gray-lighter {
 
 section.background-gray-lightest {
     background: #f7f7f7;
-    border-top: solid 1px #eeeeee;
-    border-bottom: solid 1px #eeeeee;
 }
 
 .italic {
