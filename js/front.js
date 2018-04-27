@@ -11,7 +11,6 @@ $(function () {
     sliders();
     menuSliding();
     utils();
-    map();
     demo();
 
 });
@@ -93,7 +92,6 @@ function menuSliding() {
 
         if ($(window).width() > 750) {
             $(this).find('.dropdown-menu').first().stop(true, true).slideDown();
-
         }
         else {
             $(this).find('.dropdown-menu').first().stop(true, true).show();
@@ -168,9 +166,6 @@ function animationsSlider() {
 
         });
     });
-
-
-
 }
 
 /* counters */
@@ -181,7 +176,6 @@ function counters() {
         delay: 10,
         time: 1000
     });
-
 }
 
 function utils() {
@@ -310,7 +304,7 @@ $.fn.alignElementsSameHeight = function () {
         children.innerHeight(maxHeight);
 
     });
-}
+};
 
 $(window).load(function () {
 
@@ -319,6 +313,7 @@ $(window).load(function () {
     $(this).alignElementsSameHeight();
 
 });
+
 $(window).resize(function () {
 
     newWindowWidth = $(window).width();
