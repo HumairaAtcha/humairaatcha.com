@@ -1,19 +1,11 @@
-/* 
-========================================= 
-========================================= 
-
-Designer Template By Bootstrapious.com    
-
-========================================= 
-========================================= */
 /* variant 3 - sea */
-/*
 
+/*
 =====================
 GENERAL
 =====================
-
 */
+
 html {
     height: 100%;
 }
@@ -72,6 +64,10 @@ section.background-gray-lightest {
 
 .img-responsive {
     margin: 0 auto;
+}
+
+#image {
+    width: 300px;
 }
 
 .no-space .box {
@@ -245,12 +241,11 @@ fieldset[disabled] .btn-white.active {
 }
 
 /*
-
 =====================
 INTRO
 =====================
-
 */
+
 @media (min-width: 1200px) {
     .text-intro h1 {
         font-size: 70px;
@@ -259,12 +254,11 @@ INTRO
 }
 
 /*
-
 =====================
 ABOUT
 =====================
-
 */
+
 .progress-title {
     text-align: left;
     font-weight: 700;
@@ -274,112 +268,12 @@ ABOUT
     font-size: 12px;
 }
 
-.progress-bar-skill1 {
-    background-color: #d1d1d1;
-    background-color: #69c7c6;
-}
-
-.progress-striped .progress-bar-skill1 {
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-}
-
-.progress-striped .progress-bar-skill1 {
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-}
-
-.progress-bar-skill2 {
-    background-color: #c8c7c7;
-    background-color: #57c0bf;
-}
-
-.progress-striped .progress-bar-skill2 {
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-}
-
-.progress-striped .progress-bar-skill2 {
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-}
-
-.progress-bar-skill3 {
-    background-color: #bdbdbd;
-    background-color: #45b8b7;
-}
-
-.progress-striped .progress-bar-skill3 {
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-}
-
-.progress-striped .progress-bar-skill3 {
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-}
-
-.progress-bar-skill4 {
-    background-color: #b3b2b2;
-    background-color: #3ea6a4;
-}
-
-.progress-striped .progress-bar-skill4 {
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-}
-
-.progress-striped .progress-bar-skill4 {
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-}
-
-.progress-bar-skill5 {
-    background-color: #a9a8a8;
-    background-color: #379392;
-}
-
-.progress-striped .progress-bar-skill5 {
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-}
-
-.progress-striped .progress-bar-skill5 {
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
-}
-
 /*
-
-=====================
-CUSTOMERS
-=====================
-
-*/
-.customer {
-    text-align: center;
-}
-
-.customer img {
-    display: inline-block;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-}
-
-.customer img:hover {
-    -webkit-filter: grayscale(0);
-    filter: grayscale(0);
-}
-
-/*
-
 =====================
 EKKO LIGHTBOX
 =====================
-
 */
+
 .ekko-lightbox-container {
     position: relative;
 }
@@ -468,12 +362,11 @@ a:active {
 }
 
 /*
-
 =====================
 COPYRIGHT
 =====================
-
 */
+
 .copyright {
     margin-top: 40px;
     color: #999999;
@@ -506,12 +399,11 @@ COPYRIGHT
 }
 
 /*
-
 =====================
 STYLE SWITCHER FOR DEMO
 =====================
-
 */
+
 #style-switch-button {
     position: fixed;
     top: 120px;
@@ -541,6 +433,7 @@ STYLE SWITCHER FOR DEMO
 /* ========================================= */
 /* THEMING OF BOOTSTRAP COMPONENTS           */
 /* ========================================= */
+
 /* nav */
 .nav {
     margin-bottom: 0;
@@ -1603,12 +1496,11 @@ a.list-group-item.active > .badge,
 }
 
 /*
-
 =====================
 SOCIAL LINKS
 =====================
-
 */
+
 .contact-form {
     margin-bottom: 20px;
 }
