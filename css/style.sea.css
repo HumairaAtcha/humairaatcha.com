@@ -74,6 +74,10 @@ ul {
     list-style-type: square;
 }
 
+.asterisk{
+    color: red;
+}
+
 .no-space .box {
     margin: 0 -15px;
 }
